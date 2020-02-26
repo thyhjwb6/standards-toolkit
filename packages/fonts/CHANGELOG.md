@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.2.0](https://thyhjwb6.github.com/thyhjwb6/standards-toolkit/compare/2.1.2...2.2.0) (2020-02-26)
+
+**Note:** Version bump only for package @royalnavy/fonts
+
+
+
+
+
 ## [2.1.2](https://thyhjwb6.github.com/thyhjwb6/standards-toolkit/compare/2.1.1...2.1.2) (2020-02-26)
 
 **Note:** Version bump only for package @royalnavy/fonts
