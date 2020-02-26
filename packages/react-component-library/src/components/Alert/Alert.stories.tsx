@@ -70,3 +70,11 @@ warningStories.add('Without title', () => {
     </Alert>
   )
 })
+
+warningStories.add('Type', () => {
+  return (
+    <Alert title={TITLE} variant={ALERT_VARIANT.WARNING}>
+      {DESCRIPTION}
+    </Alert>
+  )
+})
